@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather App
 
 A simple and interactive **Weather App** built with **React** that provides real-time weather updates for cities worldwide. It uses the **OpenWeatherMap API** to fetch live data and displays it in a clean, card-based UI powered by **Material UI**.
@@ -60,3 +61,7 @@ npm run dev
 ## 🙌 Contribution
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
+=======
+# Weather-App
+The Weather App is a React-based project designed to provide real-time weather updates for cities across the globe. Built with React hooks and styled using Material UI, it offers a clean and responsive interface where users can easily search for weather information. The app integrates the OpenWeatherMap API to fetch accurate and live data.
+>>>>>>> 96c0b72b1d9d1a48b5c6605801ec102cdd3127a0
